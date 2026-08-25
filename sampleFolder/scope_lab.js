@@ -1,4 +1,4 @@
-// Global scope
+/* // Global scope
 var globalVar = "I'm a global variable";
 let globalLet = "I'm also global, but scoped with let";
 const globalConst = "I'm a global constant";
@@ -30,4 +30,20 @@ show();
 console.log(functionVar); // Throws ReferenceError
 console.log(functionLet); // Throws ReferenceError
 console.log(functionConst); // Throws ReferenceError
+*/
 
+// Whithin the block the variables can have any value
+
+{
+    let fer1 = 51413;
+    const daniel1 = true;
+    var rondon1 = 1234;
+}
+
+// Outside the variables can have any value because they're outside the block {}
+
+fer1 = 99;
+
+daniel1 = false;
+
+rondon1 = 999;
