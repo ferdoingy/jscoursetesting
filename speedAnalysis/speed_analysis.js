@@ -47,5 +47,6 @@ function startTest()
     outputDiv.innerHTML = "<h2>Resultados de la Prueba de Escritura:</h2>" +
         "<p>Palabras Escribidas: " + typedWords + "</p>" +
         "<p>Tiempo Transcurrido: " + timeElapsed.toFixed(2) + " segundos</p>" +
-        "<p>Palabras Por Minuto (WPM): " + wpm + "</p>";
+        "<p>Palabras Por Minuto (WPM): " + wpm + "</p>" +
+        "<p>Total Longitud: " + userTypedText.length + "</p>";
 }
