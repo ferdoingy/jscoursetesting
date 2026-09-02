@@ -7,6 +7,8 @@ function performOperation()
     {
         // Perform the operation
         let result = multiply(num1, num2);
+        let resultAddition = sum(num1, num2);
+        let resultDivision = divide(num1, num2);
 
         // Display the result
         displayResult(result);
@@ -26,9 +28,29 @@ function multiply(a, b)
     return a * b;
 }
 
-function displayResult(result)
+function sum(a, b)
+{
+    // Introduce a debugger statement to pause execution
+    debugger;
+
+    return a + b;
+}
+
+function divide(a, b)
+{
+    // Introduce a debugger statement to pause execution
+    debugger;
+    if (b === 0)
+    {
+        return "Error: Division by zero is not allowed.";
+    }
+    return a / b;
+}
+function displayResult(result, resultAddition, resultDivision)
 {
     // Display the result in the paragraph element
     const resultElement = document.getElementById("result");
-    resultElement.textContent = `The result is: ${result}`;
+    resultElement.textContent = `The result multiplication is: ${result}
+                            The result addition is: ${resultAddition}
+                            The result division is: ${resultDivision}`;
 }
