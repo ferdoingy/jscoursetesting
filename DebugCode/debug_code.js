@@ -20,7 +20,7 @@ function performOperation()
 function multiply(a, b)
 {
     // Introduce a debugger statement to pause execution
-    debbuger;
+    debugger;
 
     // Multiply the numbers
     return a * b;
