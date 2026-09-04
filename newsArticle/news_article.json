@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "title": "Desmadre congresal: Blindaje al amanecer",
+      "description": "Un bochorno. Los autodenominados padres de la patria fraguaron, entre bostezos y tazas de café aguado, una triquiñuela de antología para salvarle el pellejo al cuestionado ministro. Y así, sin el menor atisbo de desparpajo, el pleno pisoteó la moción de censura; un espectáculo dantesco, casi circense, que deja a la ciudadanía mascando una rabia impotente.",
+      "key_events": [
+        "Votación relámpago ejecutada cuando media ciudad roncaba a pierna suelta.",
+        "Canje descarado de favores políticos con un tufo innegable a clientelismo barato.",
+        "Declaraciones cantinflescas de los voceros a la salida del hemiciclo."
+      ],
+      "consequences": [
+        "Hundimiento estrepitoso de la ya raquítica aprobación parlamentaria.",
+        "Convocatorias barullentas para marchar con cacerolas hacia el centro histórico.",
+        "Inversores extranjeros mirando de reojo este nuevo zafarrancho institucional."
+      ]
+    },
+    {
+      "title": "Fierros retorcidos y plumas en la Panamericana",
+      "description": "Caos absoluto. Un cafre del volante alucinó estar corriendo el Dakar y empotró su combi pirata contra un camión abarrotado de javas de pollo. Aves histéricas correteando por el asfalto hirviente. Un embotellamiento kilométrico que desquició a miles de oficinistas, mientras las sirenas aullaban abriéndose paso a empellones en medio del desconcierto total.",
+      "key_events": [
+        "Carreras temerarias por disputarse un puñado mísero de pasajeros de a sol.",
+        "Frenos largamente postergados que chillaron pero no aguantaron la inercia fatal.",
+        "Ausencia sepulcral de patrulleros en un tramo tristemente célebre por sus patinadas."
+      ],
+      "consequences": [
+        "Media docena de contusos trasladados a trancas y barrancas a la posta médica.",
+        "Tráfico completamente estrangulado durante cinco horas verdaderamente agónicas.",
+        "Pérdida cuantiosa de mercadería viva que acabó despachurrada o fugitiva."
+      ]
+    },
+    {
+      "title": "El dólar mete un brinco de infarto",
+      "description": "Por las nubes. Así amaneció el billete verde, respingón y esquivo, zarandeando las escasas esperanzas de los importadores locales. Justo cuando la marea financiera aparentaba cierta quietud chicha, un ventarrón de pánico originado en Wall Street nos encajó una cachetada económica de campeonato; la incertidumbre vuelve a ser el pan nuestro de cada día.",
+      "key_events": [
+        "Capitales golondrinos levantando vuelo apresurado hacia guaridas menos peliagudas.",
+        "Desplome súbito del cobre por un nuevo berrinche arancelario en Asia.",
+        "El Banco Central quemando reservas a diestra y siniestra para domar a la bestia."
+      ],
+      "consequences": [
+        "El pan, los fideos y el bendito aceite amagan, otra vez, con trepar de precio.",
+        "Ahorristas corriendo en círculos, buscando refugio bajo el colchón o en criptomonedas.",
+        "Cambistas de Ocoña haciendo su agosto a río revuelto, frotándose las manos."
+      ]
+    }
+  ]
+}
